@@ -1,0 +1,19 @@
+[user]
+	name = Evgeny Shamara
+	email = evgsham@gmail.com
+[gui]
+	recentrepo = C:\Users\shamara.e\MyGit\Pr2
+[core]
+	autocrlf = true
+	safecrlf = warn
+	quotepath = off
+	editor = notepad
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+	type = 'cat-file
+	dump = 'cat-file
+	history = log --graph
